@@ -24,7 +24,9 @@ Scanner scn= new Scanner (System.in);
         
         
         int result= n1+n2;
+        System.out.println("The sum is: " +result);
         System.out.println("By Ahmed Hamdan");
+        System.out.println("Basel");
         
     }
     
